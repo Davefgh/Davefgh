@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Christian
+# 👋 Hi there, I'm Sleepy eyes
 
 ### 💻 I'm a beginner developer exploring the world of coding and open source!
 
@@ -15,7 +15,6 @@
 
 ---
 
-## 📈 GitHub Stats
 
 ![Davefgh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davefgh&show_icons=true&theme=radical)
 
