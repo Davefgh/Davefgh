@@ -23,7 +23,7 @@
 
 ---
 
-## 🎯 Front-End Goals for 2025
+## 🎯 Goals
 - 🎨 Master modern UI with **Vue.js**
 - 🧠 Improve JavaScript and TypeScript skills
 - 📱 Learn how to build responsive designs for mobile & desktop
