@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm Sleepy eyes
 
-### 💻 Developer | 🌏 Cebu, Philippines
-
 [![GitHub followers](https://img.shields.io/github/followers/Davefgh?style=social)](https://github.com/Davefgh?tab=followers)
 [![Repositories](https://img.shields.io/badge/Repositories-8-blue?style=social&logo=github)](https://github.com/Davefgh?tab=repositories)
 
