@@ -47,24 +47,24 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Total_Commits-217-00FF00?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits"/>
+      <img src="https://img.shields.io/badge/Total_Commits-217-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Pull_Requests-View_PRs-00FF00?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests"/>
+      <img src="https://img.shields.io/badge/Pull_Requests-View_PRs-blue?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Issues-View_Issues-00FF00?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
+      <img src="https://img.shields.io/badge/Issues-View_Issues-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Code_Reviews-Contribute-00FF00?style=for-the-badge&logo=github&logoColor=white" alt="Code Reviews"/>
+      <img src="https://img.shields.io/badge/Code_Reviews-Contribute-purple?style=for-the-badge&logo=github&logoColor=white" alt="Code Reviews"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Repositories-8-00FF00?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+      <img src="https://img.shields.io/badge/Repositories-8-orange?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Stars_Received-Check_Repos-00FF00?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+      <img src="https://img.shields.io/badge/Stars_Received-Check_Repos-red?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
     </td>
   </tr>
 </table>
