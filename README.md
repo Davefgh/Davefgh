@@ -2,7 +2,7 @@
 
 # Hey 👋 I'm Sleepy eyes
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Mobile+Developer;Flutter+%26+Dart+Enthusiast;Building+Clean+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+there!+Welcome+to+my+GitHub;Thanks+for+stopping+by!;Feel+free+to+explore+my+projects" alt="Typing SVG" />
 
 [![Followers](https://img.shields.io/github/followers/Davefgh?style=for-the-badge&logo=github&logoColor=white&color=0891b2&labelColor=1c1917)](https://github.com/Davefgh)
 [![Profile Views](https://komarev.com/ghpvc/?username=Davefgh&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Davefgh)
