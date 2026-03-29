@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👋 Hey, I'm Dave (Sleepy eyes)
-### Full-Stack Developer | Mobile Specialist | Computer Science Student
+### Frontend Developer | Still Learning | Computer Science Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Cross-Platform+Apps;Mastering+Flutter+%26+Dart;Exploring+Backend+with+.NET;Open+to+Collaborations!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Cross-Platform+Apps;Mastering+Flutter+%26+Dart;Open+to+Collaborations!" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
@@ -80,8 +80,6 @@ I'm a **Software Developer** based in **Cebu, Philippines**, focused on creating
 
 <div align="center">
 
-> *"The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down."*
-> — **Tom DeMarco**
 
 <br>
 
