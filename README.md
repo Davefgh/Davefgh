@@ -5,16 +5,17 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Cross-Platform+Apps;Mastering+Flutter+%26+Dart;Open+to+Collaborations!" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-dave-sayson-0342903bb/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Oraclezy/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/or4cleee/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saysonchan01@gmail.com)
 
 </div>
 
 ---
 
 ## 🚀 About Me
-I'm a **Software Developer** based in **Cebu, Philippines**, focused on creating seamless user experiences across mobile and web platforms. I bridge the gap between complex backend logic and intuitive frontend design.
+I'm a **Software Developer** based in **Cebu, Philippines**, focused on creating seamless user experiences across mobile and web platforms. 
 
 - 🔭 **Current Project:** Refining an **Attendance Management System** (Mobile & Web).
 - 🌱 **Learning:** Swift, C++, and Advanced Software Lifecycle Management.
@@ -52,27 +53,18 @@ I'm a **Software Developer** based in **Cebu, Philippines**, focused on creating
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Davefgh&theme=tokyonight&no-bg=true&margin-w=15"/>
+### ⚡ Key Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Davefgh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dave's Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davefgh&layout=compact&theme=tokyonight&hide_border=true&hide=css,html" alt="Top Languages" height="180px" />
 
 <br/>
 
-### 📈 Activity & Language Mix
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davefgh&theme=tokyonight" alt="Profile Details" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davefgh&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 🗓️ Contribution Heatmap
+### 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davefgh&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bfdbfe&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Davefgh&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 
 </div>
 
@@ -80,9 +72,7 @@ I'm a **Software Developer** based in **Cebu, Philippines**, focused on creating
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-dave-sayson-0342903bb/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Oraclezy/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/or4cleee/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saysonchan01@gmail.com)
+> *"The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down."*
+> — **Tom DeMarco**
 
 </div>
