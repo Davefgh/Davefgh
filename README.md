@@ -52,12 +52,15 @@ I'm a **Software Developer** based in **Cebu, Philippines**, focused on creating
 
 <div align="center">
 
-| **Core Stats** | **Language Distribution** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Davefgh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dave's Stats" height="190px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davefgh&layout=compact&theme=tokyonight&hide_border=true&hide=css,html" alt="Top Languages" height="190px" /> |
+<img src="https://github-readme-stats.vercel.app/api?username=Davefgh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dave's Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davefgh&layout=compact&theme=tokyonight&hide_border=true&hide=css,html" alt="Top Languages" height="180px" />
+
+<br/>
 
 ### 📈 Weekly Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Davefgh&bg_color=1a1b27&color=7dd3fc&line=38bdf8&point=7dd3fc&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Davefgh&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bfdbfe&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davefgh&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 
