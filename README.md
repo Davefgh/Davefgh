@@ -53,7 +53,7 @@ I'm a **Software Developer** based in **Cebu, Philippines**, focused on creating
 <div align="center">
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Davefgh&theme=tokyonight&no-bg=true&margin-w=15" alt="Dave's Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Davefgh&theme=tokyonight&no-bg=true&margin-w=15"/>
 
 <br/>
 
