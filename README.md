@@ -24,13 +24,13 @@ I'm a **Software Developer** based in **Cebu, Philippines**, focused on creating
 
 ## 🛠️ Tech Stack & Skills
 
-### <img src="https://media.giphy.com/media/WUlqqjoCy4XiySTC9x/giphy.gif" width="30"> Mobile & Frontend
+### 📱 Mobile & Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7xe/giphy.gif" width="30"> Backend & Tools
+### ⚙️ Backend & Tools
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -48,21 +48,31 @@ I'm a **Software Developer** based in **Cebu, Philippines**, focused on creating
 
 ---
 
-## 📊 Performance Metrics
+## 📊 Developer Insights
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Davefgh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dave's Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davefgh&layout=compact&theme=tokyonight&hide_border=true&hide=css,html" alt="Top Languages" height="180px" />
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Davefgh&theme=tokyonight&no-bg=true&margin-w=15" alt="Dave's Trophies" />
 
 <br/>
 
-### 📈 Weekly Contribution Activity
+### 📈 Activity & Language Mix
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davefgh&theme=tokyonight" alt="Profile Details" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davefgh&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🗓️ Contribution Heatmap
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davefgh&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bfdbfe&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Davefgh&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 
 </div>
 
