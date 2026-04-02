@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Dave (Sleepy eyes)
+# 👋 Hey, I'm Sleepy eyes
 ### Full-Stack Developer | Mobile Specialist | Computer Science Student
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Cross-Platform+Apps;Mastering+Flutter+%26+Dart;Creating+Modern+Web+UIs;Open+to+Collaborations!" alt="Typing SVG" />
