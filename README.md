@@ -52,17 +52,8 @@ I'm a **Software Developer** based in **Cebu, Philippines**, specializing in cre
 
 <div align="center">
 
-### 🏆 Performance & Streaks
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davefgh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Davefgh&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+### 🏆 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Davefgh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
