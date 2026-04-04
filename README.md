@@ -1,9 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Sleepy eyes
-### Full-Stack Developer | Mobile Specialist | Computer Science Student
+<img src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=200&section=header&text=Sleepy%20Eyes&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Cross-Platform+Apps;Mastering+Flutter+%26+Dart;Creating+Modern+Web+UIs;Open+to+Collaborations!" alt="Typing SVG" />
+### 🚀 Full-Stack Developer | Mobile Specialist | CS Student
+ 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=70a5fd&center=true&vCenter=true&width=500&lines=Building+Cross-Platform+Apps;Mastering+Flutter+%26+Dart;Creating+Modern+Web+UIs;Open+to+Collaborations!" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
@@ -13,71 +14,69 @@
 
 ---
 
-## 🚀 About Me
-I'm a **Software Developer** based in **Cebu, Philippines**, specializing in creating seamless user experiences across mobile and web platforms. I enjoy turning complex ideas into clean, functional code.
+## 📱 About Me
+I'm a **Software Developer** based in **Cebu, Philippines**, focused on building high-performance mobile and web applications. I specialize in the Flutter ecosystem and robust .NET backends.
 
-- 🔭 **Current Project:** Refining an **Attendance Management System** (Mobile & Web).
-- 🌱 **Learning:** Swift, C++, and Modern UI/UX Practices.
-- 💬 **Ask me about:** Flutter UI, Dart widgets, or Monkeytype records.
+- 🔭 **Current Focus:** Scaling the **Attendance Management System** (Mobile & Web).
+- 🌱 **Learning:** Swift, C++, and Advanced UI/UX Patterns.
+- ⚡ **Fun Fact:** When I'm not coding, I'm likely chasing a new PB on **Monkeytype**.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### 📱 Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🚀 Core Expertise
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,dotnet,sqlserver,vue,nodejs,git,github,vscode,postman" />
+  </a>
+</p>
 
-### ⚙️ Backend & Tools
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🧪 Exploring & Learning
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,cpp,figma,firebase,docker" />
+  </a>
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[AMS Mobile](https://github.com/Davefgh/ams-admin-mobile)** | Attendance tracking with QR/Scanner logic. | Flutter, Dart, SQL |
-| **[PC Info App](https://github.com/Davefgh/pc-information-app)** | System monitoring & hardware diagnostics. | Vue.js, Node.js |
-| **[Lab System](https://github.com/Davefgh/Lab-System-Frontend)** | Frontend management for laboratory resources. | Vue.js, CSS3 |
+### 📱 [AMS Mobile](https://github.com/Davefgh/ams-admin-mobile)
+> **Lead Developer** | *Flutter, Dart, SQL Server*
+> A comprehensive attendance tracking solution featuring secure QR/Scanner logic and real-time database synchronization.
+
+### 💻 [PC Info App](https://github.com/Davefgh/pc-information-app)
+> **Full-Stack** | *Vue.js, Node.js*
+> A system monitoring tool designed for hardware diagnostics and real-time performance tracking.
+
+### 🧪 [Lab System Frontend](https://github.com/Davefgh/Lab-System-Frontend)
+> **Frontend Dev** | *Vue.js, CSS3*
+> Streamlined resource management interface for laboratory environments.
 
 ---
 
-## 📊 Developer Metrics
+## 📊 Performance Metrics
 
 <div align="center">
 
-### 🏆 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Davefgh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### 🏆 GitHub Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=Davefgh&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
 
-<br/>
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Davefgh&theme=tokyonight&no-bg=true&margin-w=15" alt="Dave's Trophies" />
-
-<br/>
-
-### 📈 Activity & Language Mix
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davefgh&theme=tokyonight" alt="Profile Details" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davefgh&theme=tokyonight&hide_border=true" alt="Streak" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davefgh&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davefgh&theme=tokyonight" alt="Languages" />
     </td>
   </tr>
 </table>
 
-<br/>
-
-### 🗓️ Contribution Heatmap
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Davefgh&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bfdbfe&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+### 🗓️ Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Davefgh&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bfdbfe&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -90,7 +89,7 @@ I'm a **Software Developer** based in **Cebu, Philippines**, specializing in cre
 
 <br>
 
-**📫 How to reach me:**
+**📫 Let's Connect:**
 [Email Me](mailto:your-email@gmail.com) • [LinkedIn](YOUR_LINKEDIN_URL)
 
 </div>
