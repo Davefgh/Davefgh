@@ -84,8 +84,7 @@ I'm a **Software Developer** based in **Cebu, Philippines**, focused on building
 
 <div align="center">
 
-> *"The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down."*
-> — **Tom DeMarco**
+
 
 <br>
 
