@@ -18,14 +18,4 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Davefgh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" height="195px" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Davefgh&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="85%" />
-</p>
 
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Davefgh&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180px" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
