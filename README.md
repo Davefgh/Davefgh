@@ -7,37 +7,25 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <!-- Sleepy eyes' GitHub Stats Card -->
-  <img src="https://github-readme-stats.shion.dev/api?username=Davefgh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Dave's GitHub Stats" width="80%" />
-</p>
-
-<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.shion.dev/api?username=Davefgh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Dave's GitHub Stats" height="195px" />
   <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com/?user=Davefgh&theme=dark&hide_border=false" alt="Dave's GitHub Streak" width="80%" />
+  <img src="https://streak-stats.demolab.com/?user=Davefgh&theme=dark&hide_border=false" alt="Dave's GitHub Streak" height="195px" />
 </p>
 
 <p align="center">
   <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Davefgh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" width="80%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Davefgh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" height="195px" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Davefgh&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Davefgh&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="85%" />
 </p>
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Davefgh&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Davefgh&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180px" />
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Davefgh&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Davefgh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Davefgh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
