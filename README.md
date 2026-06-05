@@ -1,4 +1,3 @@
-
 # Hey there! I'm Dave 👋
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&width=435&lines=Mobile+%26+Frontend+Specialist;Building+clean+%26+modular+UIs;Flutter;+Dart;+and+TypeScript+fanatic" alt="Typing SVG" />
@@ -38,8 +37,8 @@ I'm a **Computer Science Student and Software Developer** specializing in buildi
 </p>
 
 <p align="center">
-  <!-- Activity Overview Chart / Poly-Radar Graph -->
-  <img src="https://github-readme-stats.vercel.app/api/radar?username=Davefgh&theme=tokyonight&hide_border=true" alt="Dave's Activity Overview" width="100%" />
+  <!-- Activity Overview Chart / Corrected Trophies Row -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Davefgh&theme=tokyonight&margin-w=15" alt="Dave's Activity Overview" width="100%" />
 </p>
 
 ---
