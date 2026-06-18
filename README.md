@@ -13,7 +13,6 @@
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.shion.dev/api?username=Davefgh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Dave's GitHub Stats" height="195px" />
   <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com/?user=Davefgh&theme=dark&hide_border=false" alt="Dave's GitHub Streak" height="195px" />
 </p>
 
 <p align="center">
