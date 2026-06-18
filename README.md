@@ -10,14 +10,9 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.shion.dev/api?username=Davefgh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Dave's GitHub Stats" height="195px" />
-  <!-- Streak Stats Card -->
-</p>
-
-<p align="center">
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Davefgh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" height="195px" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Davefgh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" width="380" />
+  &nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Davefgh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" width="380" />
 </p>
 
 
